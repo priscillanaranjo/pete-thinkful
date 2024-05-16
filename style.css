@@ -63,7 +63,9 @@ hr {
 .image-circle {border-radius: 50%; border: 2px solid #003049;display:block; margin-left:auto; margin-right:auto;
 }
 
-ul{margin:auto;}
+div.bullist {text-align: center;}
+ul.mylists {display: inline-block; text-align: left;}
+ol.myolists {display: inline-block; text-align: left;}
 
 a.one:link{color:#d62828;}
 a.one:hover{color:#f77f00;}
